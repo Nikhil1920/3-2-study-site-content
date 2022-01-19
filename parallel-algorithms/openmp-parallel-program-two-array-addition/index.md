@@ -94,7 +94,11 @@ file is the name of the c file which we want to compile.
 To run the compiled program, type the following command:
 
 ```
+# For linux users
 ./a.out
+
+# For Windows users
+.\a.exe
 ```
 
 ## output
